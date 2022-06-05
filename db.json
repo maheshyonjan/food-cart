@@ -1,0 +1,36 @@
+{
+  "products": [
+      {
+        "id": 1,
+        "name": "carrot",
+        "type": "vegitable",
+        "price": 5,
+        "quantity": 0,
+        "photo": "./assets/cart.svg"
+      },
+      {
+        "id": 2,
+        "name": "banana",
+        "type": "fruits",
+        "price": 6,
+        "quantity": 0,
+        "photo": "./assets/cart.svg"
+      },
+      {
+        "id": 3,
+        "name": "mango",
+        "type": "fruits",
+        "price": 10,
+        "quantity": 0,
+        "photo": "./assets/cart.svg"
+      },
+      {
+        "id": 4,
+        "name": "cucumber",
+        "type": "vegitable",
+        "price": 5,
+        "quantity": 0,
+        "photo": "./assets/cart.svg"
+      }
+    ]
+}
